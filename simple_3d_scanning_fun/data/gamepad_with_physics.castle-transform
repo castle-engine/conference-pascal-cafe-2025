@@ -1,0 +1,26 @@
+{
+  "$$ClassName" : "TCastleScene",
+  "ExposeTransforms" : [
+  ],
+  "Name" : "SceneGamepadFromPolycamCleaned6",
+  "RenderOptions" : {
+    "$$ClassName" : "TCastleScene.TSceneRenderOptions"
+  },
+  "TranslationPersistent" : {
+    "$$ClassName" : "TCastleVector3Persistent",
+    "X" : 3.4740924835205078E+000,
+    "Y" : 2.1115846633911133E+000,
+    "Z" : 1.1707787513732910E+000
+  },
+  "Url" : "castle-data:/gamepad_from_polycam_cleaned.gltf",
+  "$Behaviors" : [
+    {
+      "$$ClassName" : "TCastleBoxCollider",
+      "Name" : "BoxCollider6"
+    },
+    {
+      "$$ClassName" : "TCastleRigidBody",
+      "Name" : "RigidBody7"
+    }
+  ]
+}
